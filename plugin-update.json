@@ -6,7 +6,7 @@
   "homepage": "https://github.com/LambaLab/oono-wp-plugin-meta",
   "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/releases/download/v1.6.0/oono.zip",
   "requires": "5.0",
-  "tested": "6.7",
+  "tested": "6.7.1",
   "description": "The OONO plugin offers advanced features for managing your WordPress site efficiently.",
   "sections": {
     "description": "This is the description of the OONO plugin. It provides various tools to enhance your WordPress experience.",
