@@ -3,7 +3,7 @@
     "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/raw/refs/heads/main/oono-1.6.0.zip",
     "changelog": "Brand validation, Code modification & upgrade. UI/Ux fixes for better user experience.",
     "sections": {
-        "description": "This is a description of the OONO plugin.",
+        "description": "This is a description of the oono plugin.",
         "changelog": "### 1.6.0\n* Feature: Added support for XYZ.\n* Fix: Improved performance."
     }
 }
