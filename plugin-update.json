@@ -1,13 +1,15 @@
 {
-    "version": "1.6.0",
-    "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/releases/download/v1.6.0/oono.zip",
-    "tested": "6.5",
-    "requires": "5.0",
-    "last_updated": "2024-06-10",
-    "homepage": "https://github.com/LambaLab/oono-wp-plugin-meta",
-    "sections": {
-        "description": "This is the latest version of Oono with improvements and bug fixes.",
-        "changelog": "<h4>1.6.0</h4><ul><li>Feature 1: Added support for X.</li><li>Fix: Issue with XYZ resolved.</li></ul>",
-        "installation": "Upload the plugin to your 'wp-content/plugins' directory and activate it from the WordPress admin panel."
-    }
+  "name": "OONO Plugin",
+  "slug": "oono",
+  "version": "1.6.0",
+  "author": "LambaLab",
+  "homepage": "https://github.com/LambaLab/oono-wp-plugin-meta",
+  "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/releases/download/v1.6.0/oono.zip",
+  "requires": "5.0",
+  "tested": "6.5",
+  "description": "The OONO plugin offers advanced features for managing your WordPress site efficiently.",
+  "sections": {
+    "description": "This is the description of the OONO plugin. It provides various tools to enhance your WordPress experience.",
+    "changelog": "### Version 1.6.0\n- Fixed minor bugs.\n- Added performance improvements.\n\n### Version 1.5.0\n- Initial release."
+  }
 }
