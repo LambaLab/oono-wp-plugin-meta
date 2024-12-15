@@ -1,9 +1,13 @@
 {
     "version": "1.6.0",
-    "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/raw/refs/heads/main/oono-1.6.0.zip",
-    "changelog": "Brand validation, Code modification & upgrade. UI/Ux fixes for better user experience.",
+    "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/releases/download/v1.6.0/oono.zip",
+    "tested": "6.5",
+    "requires": "5.0",
+    "last_updated": "2024-06-10",
+    "homepage": "https://github.com/LambaLab/oono-wp-plugin-meta",
     "sections": {
-        "description": "This is a description of the oono plugin.",
-        "changelog": "### 1.6.0\n* Feature: Added support for XYZ.\n* Fix: Improved performance."
+        "description": "This is the latest version of Oono with improvements and bug fixes.",
+        "changelog": "<h4>1.6.0</h4><ul><li>Feature 1: Added support for X.</li><li>Fix: Issue with XYZ resolved.</li></ul>",
+        "installation": "Upload the plugin to your 'wp-content/plugins' directory and activate it from the WordPress admin panel."
     }
 }
