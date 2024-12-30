@@ -1,10 +1,10 @@
 {
   "name": "oono Plugin",
   "slug": "oono",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "author": "oono",
   "homepage": "https://github.com/LambaLab/oono-wp-plugin-meta",
-  "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/raw/refs/heads/main/oono-1.7.0.zip",
+  "download_url": "https://github.com/LambaLab/oono-wp-plugin-meta/raw/refs/heads/main/oono-1.7.2.zip",
   "requires": "5.0",
   "tested": "6.7.1",
   "description": "The oono plugin offers advanced features for managing your WordPress site efficiently.",
